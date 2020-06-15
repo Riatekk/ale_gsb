@@ -1,0 +1,39 @@
+D:\cours\2SIO-2019-2020\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.csprojResolveAssemblyReference.cache
+D:\cours\2SIO-2019-2020\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.XML
+D:\cours\2SIO-2019-2020\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.dll
+D:\cours\2SIO-2019-2020\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.pdb
+D:\cours\2SIO-2019-2020\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.dll
+D:\cours\2SIO-2019-2020\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.pdb
+D:\cours\2SIO-2019-2020\semestre2\PROJETs\PPE-PROJET\projet_Visites\Doc-MOA\Bibli et test\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.XML
+D:\cours\2SIO-2019-2020\semestre2\PROJETs\PPE-PROJET\projet_Visites\Doc-MOA\Bibli et test\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.dll
+D:\cours\2SIO-2019-2020\semestre2\PROJETs\PPE-PROJET\projet_Visites\Doc-MOA\Bibli et test\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.pdb
+D:\cours\2SIO-2019-2020\semestre2\PROJETs\PPE-PROJET\projet_Visites\Doc-MOA\Bibli et test\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.csprojResolveAssemblyReference.cache
+D:\cours\2SIO-2019-2020\semestre2\PROJETs\PPE-PROJET\projet_Visites\Doc-MOA\Bibli et test\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.dll
+D:\cours\2SIO-2019-2020\semestre2\PROJETs\PPE-PROJET\projet_Visites\Doc-MOA\Bibli et test\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.pdb
+D:\cours\2SIO-2019-2020\semestre2\PROJETs\PPE-PROJET\projet_Visites\semaine2\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.XML
+D:\cours\2SIO-2019-2020\semestre2\PROJETs\PPE-PROJET\projet_Visites\semaine2\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.dll
+D:\cours\2SIO-2019-2020\semestre2\PROJETs\PPE-PROJET\projet_Visites\semaine2\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.pdb
+D:\cours\2SIO-2019-2020\semestre2\PROJETs\PPE-PROJET\projet_Visites\semaine2\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.csprojResolveAssemblyReference.cache
+D:\cours\2SIO-2019-2020\semestre2\PROJETs\PPE-PROJET\projet_Visites\semaine2\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.dll
+D:\cours\2SIO-2019-2020\semestre2\PROJETs\PPE-PROJET\projet_Visites\semaine2\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.pdb
+C:\Users\Utilisateur\Desktop\C#\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.XML
+C:\Users\Utilisateur\Desktop\C#\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.dll
+C:\Users\Utilisateur\Desktop\C#\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\Utilisateur\Desktop\C#\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\C#\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.dll
+C:\Users\Utilisateur\Desktop\C#\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.XML
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.dll
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.dll
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.pdb
+<<<<<<< HEAD
+=======
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.XML
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.dll
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\Acces_BDClassLibrary\Acces_BDClassLibrary\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.dll
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\Acces_BDClassLibrary\Acces_BDClassLibrary\obj\Debug\Acces_BDClassLibrary.pdb
+>>>>>>> Developpement

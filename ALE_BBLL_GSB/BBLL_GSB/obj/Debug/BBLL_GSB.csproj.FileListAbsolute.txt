@@ -1,0 +1,124 @@
+C:\Users\Utilisateur\Desktop\C#\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe.config
+C:\Users\Utilisateur\Desktop\C#\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe
+C:\Users\Utilisateur\Desktop\C#\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.pdb
+C:\Users\Utilisateur\Desktop\C#\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\C#\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmMenu.resources
+C:\Users\Utilisateur\Desktop\C#\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\C#\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Desktop\C#\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.exe
+C:\Users\Utilisateur\Desktop\C#\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.pdb
+C:\Users\Utilisateur\Desktop\C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe.config
+C:\Users\Utilisateur\Desktop\C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.exe
+C:\Users\Utilisateur\Desktop\C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.pdb
+C:\Users\Utilisateur\Desktop\C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe
+C:\Users\Utilisateur\Desktop\C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.pdb
+C:\Users\Utilisateur\Desktop\C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationCompteRendus.resources
+C:\Users\Utilisateur\Desktop\C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationVisiteur.resources
+C:\Users\Utilisateur\Desktop\C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmMenu.resources
+C:\Users\Utilisateur\Desktop\C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csproj.GenerateResource.Cache
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe.config
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.exe
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.pdb
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.pdb
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationCompteRendus.resources
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationVisiteur.resources
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmMenu.resources
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.Properties.Resources.resources
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csproj.GenerateResource.Cache
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe.config
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.exe
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.dll
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csprojResolveAssemblyReference.cache
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationCompteRendus.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationVisiteur.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmMenu.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.Properties.Resources.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe.config
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.exe
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.pdb
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.pdb
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.dll
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationCompteRendus.resources
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationVisiteur.resources
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmMenu.resources
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csproj.GenerateResource.Cache
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe.config
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.exe
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.pdb
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.pdb
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.dll
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csprojResolveAssemblyReference.cache
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationCompteRendus.resources
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationVisiteur.resources
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmMenu.resources
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.Properties.Resources.resources
+C:\Users\Antonin\Desktop\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csproj.GenerateResource.Cache
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.dll
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmModificationsRapports.resources
+C:\Users\Utilisateur\Desktop\Projet C#\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmModificationsRapports.resources
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmModificationsRapports.resources
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmLogo.resources
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csprojResolveAssemblyReference.cache
+C:\Users\Antonin\Desktop\Projets BTS\ppe_bbll_c_sharp\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationArchives.resources
+C:\Users\Antonin\Downloads\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe.config
+C:\Users\Antonin\Downloads\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.exe
+C:\Users\Antonin\Downloads\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe.config
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.exe
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.dll
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csprojResolveAssemblyReference.cache
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationArchives.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationCompteRendus.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationPraticien.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationVisiteur.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmLogo.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmMenu.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmModificationsRapports.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.Properties.Resources.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csproj.GenerateResource.Cache
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe.config
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.exe
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csprojResolveAssemblyReference.cache
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationArchives.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationMedicament.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationCompteRendus.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationPraticien.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmConsultationVisiteur.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmLogo.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmMenu.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.FrmModificationsRapports.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.Properties.Resources.resources
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.csproj.GenerateResource.Cache
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.dll
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\Antonin\Desktop\ppe_bbll_c_sharp-master\BBLL_GSB\BBLL_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\Antonin\Desktop\ALE_GSB\ALE_BBLL_GSB\BBLL_GSB\bin\Debug\BBLL_GSB.exe.config
+C:\Users\Antonin\Desktop\ALE_GSB\ALE_BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.exe
+C:\Users\Antonin\Desktop\ALE_GSB\ALE_BBLL_GSB\BBLL_GSB\obj\Debug\BBLL_GSB.pdb
