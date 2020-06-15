@@ -43,10 +43,10 @@ namespace BBLL_GSB
             outils.MaDeconnexion();
         }
 
-        private void ListeDesPraParMedic(string unRapNum, DataGridView unDtg)
+        private void ListeDesPraParMedic(string unPraNum, DataGridView unDtg)
         {
             outils.MaConnexion();
-            unDtg.DataSource = outils.ExecReader_DataTable("EXEC PSS_ListePraMedic " + unRapNum);
+            unDtg.DataSource = outils.ExecReader_DataTable("EXEC PSS_ListePraMedic '" + unPraNum + "'");
             outils.MaDeconnexion();
         }
 
