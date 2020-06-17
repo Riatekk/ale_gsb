@@ -171,7 +171,7 @@
             this.LblMessageModif.Location = new System.Drawing.Point(12, 187);
             this.LblMessageModif.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LblMessageModif.Name = "LblMessageModif";
-            this.LblMessageModif.Size = new System.Drawing.Size(194, 13);
+            this.LblMessageModif.Size = new System.Drawing.Size(229, 15);
             this.LblMessageModif.TabIndex = 6;
             this.LblMessageModif.Text = "*Seul le motif et le bilan sont modifiables";
             // 
@@ -181,7 +181,7 @@
             this.LblModification.Location = new System.Drawing.Point(89, 42);
             this.LblModification.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LblModification.Name = "LblModification";
-            this.LblModification.Size = new System.Drawing.Size(84, 13);
+            this.LblModification.Size = new System.Drawing.Size(92, 15);
             this.LblModification.TabIndex = 5;
             this.LblModification.Text = "MODIFICATION";
             // 
@@ -202,7 +202,7 @@
             this.LblMotif.Location = new System.Drawing.Point(12, 76);
             this.LblMotif.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LblMotif.Name = "LblMotif";
-            this.LblMotif.Size = new System.Drawing.Size(36, 13);
+            this.LblMotif.Size = new System.Drawing.Size(40, 15);
             this.LblMotif.TabIndex = 3;
             this.LblMotif.Text = "Motif :";
             // 
@@ -212,7 +212,7 @@
             this.LblBilan.Location = new System.Drawing.Point(11, 111);
             this.LblBilan.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LblBilan.Name = "LblBilan";
-            this.LblBilan.Size = new System.Drawing.Size(36, 13);
+            this.LblBilan.Size = new System.Drawing.Size(41, 15);
             this.LblBilan.TabIndex = 2;
             this.LblBilan.Text = "Bilan :";
             // 
@@ -261,7 +261,7 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(5, 209);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(47, 13);
+            this.label6.Size = new System.Drawing.Size(53, 15);
             this.label6.TabIndex = 15;
             this.label6.Text = "Quantité";
             // 
@@ -282,7 +282,7 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(5, 164);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(144, 13);
+            this.label5.Size = new System.Drawing.Size(172, 15);
             this.label5.TabIndex = 13;
             this.label5.Text = "Médicament nom commercial";
             // 
@@ -315,7 +315,7 @@
             this.label12.AutoSize = true;
             this.label12.Location = new System.Drawing.Point(5, 109);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(103, 13);
+            this.label12.Size = new System.Drawing.Size(120, 15);
             this.label12.TabIndex = 9;
             this.label12.Text = "Numéro du Praticien";
             // 
@@ -324,7 +324,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(5, 52);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(101, 13);
+            this.label1.Size = new System.Drawing.Size(116, 15);
             this.label1.TabIndex = 8;
             this.label1.Text = "Matricule du visiteur";
             // 
@@ -350,7 +350,7 @@
             this.label2.Location = new System.Drawing.Point(82, 12);
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(91, 13);
+            this.label2.Size = new System.Drawing.Size(104, 15);
             this.label2.TabIndex = 5;
             this.label2.Text = "Ajouter un rapport";
             // 
@@ -371,7 +371,7 @@
             this.label3.Location = new System.Drawing.Point(11, 250);
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(36, 13);
+            this.label3.Size = new System.Drawing.Size(40, 15);
             this.label3.TabIndex = 3;
             this.label3.Text = "Motif :";
             // 
@@ -381,7 +381,7 @@
             this.label4.Location = new System.Drawing.Point(11, 326);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(36, 13);
+            this.label4.Size = new System.Drawing.Size(41, 15);
             this.label4.TabIndex = 2;
             this.label4.Text = "Bilan :";
             // 
@@ -392,7 +392,7 @@
             this.lblNbRapportsTxt.Location = new System.Drawing.Point(11, 154);
             this.lblNbRapportsTxt.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblNbRapportsTxt.Name = "lblNbRapportsTxt";
-            this.lblNbRapportsTxt.Size = new System.Drawing.Size(241, 23);
+            this.lblNbRapportsTxt.Size = new System.Drawing.Size(262, 24);
             this.lblNbRapportsTxt.TabIndex = 9;
             this.lblNbRapportsTxt.Text = "Nombre de rapports : ";
             // 
@@ -402,7 +402,7 @@
             this.LblNbRapport.Location = new System.Drawing.Point(146, 231);
             this.LblNbRapport.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LblNbRapport.Name = "LblNbRapport";
-            this.LblNbRapport.Size = new System.Drawing.Size(0, 13);
+            this.LblNbRapport.Size = new System.Drawing.Size(0, 15);
             this.LblNbRapport.TabIndex = 10;
             // 
             // LblNbRapports
@@ -412,7 +412,7 @@
             this.LblNbRapports.Location = new System.Drawing.Point(277, 150);
             this.LblNbRapports.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LblNbRapports.Name = "LblNbRapports";
-            this.LblNbRapports.Size = new System.Drawing.Size(25, 28);
+            this.LblNbRapports.Size = new System.Drawing.Size(30, 32);
             this.LblNbRapports.TabIndex = 11;
             this.LblNbRapports.Text = "0";
             // 
